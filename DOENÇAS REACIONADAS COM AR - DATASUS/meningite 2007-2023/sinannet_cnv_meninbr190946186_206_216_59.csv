@@ -1,7 +1,7 @@
-MENINGITE - Casos confirmados Notificados no Sistema de Informação de Agravos de Notificação - Brasil
-Casos confirmados por Município de notificação
-Período:2007-2023
-"Município de notificação";"Casos_confirmados"
+MENINGITE - Casos confirmados Notificados no Sistema de Informaï¿½ï¿½o de Agravos de Notificaï¿½ï¿½o - Brasil
+Casos confirmados por Municï¿½pio de notificaï¿½ï¿½o
+Perï¿½odo:2007-2023
+"Municï¿½pio de notificaï¿½ï¿½o";"Casos_confirmados"
 "110001 ALTA FLORESTA D'OESTE";3
 "110002 ARIQUEMES";8
 "110004 CACOAL";267
@@ -2556,16 +2556,16 @@ Período:2007-2023
 "522190 VARJAO";2
 "530010 BRASILIA";2862
 "Total";302890
- Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Fonte: Ministï¿½rio da Saï¿½de/SVSA - Sistema de Informaï¿½ï¿½o de Agravos de Notificaï¿½ï¿½o - Sinan Net
  Notas:
  
-  Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
-  Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável de interesse, na Coluna Ano dos 1ºs sintomas;
-   em Períodos Disponíveis assinale o ano inicial da série e todos os posteriores até o ano atual (p/ incluir casos notificados com atraso)
-   e em Seleções
-  Disponíveis assinale os anos dos 1ºs sintomas (ex: nº de casos com início de sintomas 2007: selecione na linha UF de residência,
-   na Coluna Ano de 1ºs sintomas, em Períodos disponíveis 2007 até o ano atual e em Seleções assinale Ano de 1ºs sintomas 2007).
-  Para cálculo da incidência utilize locais de residência.
+  Perï¿½odos Disponï¿½veis ou perï¿½odo - Correspondem aos anos de notificaï¿½ï¿½o dos casos.
+  Para tabular dados epidemiolï¿½gicos de um determinado ano selecione na linha a variï¿½vel de interesse, na Coluna Ano dos 1ï¿½s sintomas;
+   em Perï¿½odos Disponï¿½veis assinale o ano inicial da sï¿½rie e todos os posteriores atï¿½ o ano atual (p/ incluir casos notificados com atraso)
+   e em Seleï¿½ï¿½es
+  Disponï¿½veis assinale os anos dos 1ï¿½s sintomas (ex: nï¿½ de casos com inï¿½cio de sintomas 2007: selecione na linha UF de residï¿½ncia,
+   na Coluna Ano de 1ï¿½s sintomas, em Perï¿½odos disponï¿½veis 2007 atï¿½ o ano atual e em Seleï¿½ï¿½es assinale Ano de 1ï¿½s sintomas 2007).
+  Para cï¿½lculo da incidï¿½ncia utilize locais de residï¿½ncia.
   Dados de 2007 e 2008 atualizados em 02/07/2012.
   Dados de 2009 atualizados em 06/09/2020.
   Dados de 2010 atualizados em 04/11/2013.
@@ -2577,12 +2577,12 @@ Período:2007-2023
   Dados de 2016 atualizados em 16/09/2019.
   Dados de 2017 atualizados em 24/04/2020.
   Dados de 2018 atualizados em 22/08/2022.
-  Dados de 2019 atualizados em 16/06/2023, dados sujeitos à revisão.
-  Dados de 2020 atualizados em 25/01/2024, dados sujeitos à revisão.
-  Dados de 2021 atualizados em 04/01/2024, dados sujeitos à revisão.
-  Dados de 2022 atualizados em 04/03/2024, dados sujeitos à revisão.
-  Dados de 2023 atualizados em 17/04/2024, dados sujeitos à revisão.
-  Dados a partir de 2020 do Espírito Santo não estão disponíveis neste sistema, pois são oriundos do Sistema de Informação e-SUS VS,
+  Dados de 2019 atualizados em 16/06/2023, dados sujeitos ï¿½ revisï¿½o.
+  Dados de 2020 atualizados em 25/01/2024, dados sujeitos ï¿½ revisï¿½o.
+  Dados de 2021 atualizados em 04/01/2024, dados sujeitos ï¿½ revisï¿½o.
+  Dados de 2022 atualizados em 04/03/2024, dados sujeitos ï¿½ revisï¿½o.
+  Dados de 2023 atualizados em 17/04/2024, dados sujeitos ï¿½ revisï¿½o.
+  Dados a partir de 2020 do Espï¿½rito Santo nï¿½o estï¿½o disponï¿½veis neste sistema, pois sï¿½o oriundos do Sistema de Informaï¿½ï¿½o e-SUS VS,
     em uso pelo estado desde janeiro de 2020.
   *Dados disponibilizados no TABNET em maio de 2024.
  

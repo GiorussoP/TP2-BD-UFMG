@@ -1,7 +1,11 @@
- Investigação de Pneumoconiose relacionada ao trabalho - Notificações registradas no Sinan Net - Brasil
-Notificações por Município de notificação
-Período:2006-2023
-"Município de notificação";"Notificações"
+ Investigaï¿½ï¿½o de Pneumoconiose relacionada ao trabalho - Notificaï¿½ï¿½es registradas no Sinan Net - Brasil
+Notificaï¿½ï¿½es por Municï¿½pio de notificaï¿½ï¿½o
+
+Perï¿½odo: 2006-2023
+
+"Municï¿½pio de notificaï¿½ï¿½o";"Notificaï¿½ï¿½es"
+
+
 "110004 CACOAL";2
 "110005 CEREJEIRAS";1
 "110020 PORTO VELHO";1
@@ -365,21 +369,22 @@ Período:2006-2023
 "521970 SANTA TEREZINHA DE GOIAS";1
 "522020 SAO MIGUEL DO ARAGUAIA";1
 "530010 BRASILIA";11
+
 "Total";6108
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Fonte: Ministï¿½rio da Saï¿½de/SVS - Sistema de Informaï¿½ï¿½o de Agravos de Notificaï¿½ï¿½o - Sinan Net
  Notas:
  
- Períodos Disponíveis / Período - Correspondem aos anos de notificação dos casos.
- CAT - Comunicação de acidente de trabalho.
- O campo "CNAE ? Ativ. Econ." considera os códigos referentes as tabelas CNAE 1.0.
- Dados a partir 2020 do Espírito Santo não estão disponíveis neste sistema, pois são oriundos do Sistema de Informação e-SUS VS,
+ Perï¿½odos Disponï¿½veis / Perï¿½odo - Correspondem aos anos de notificaï¿½ï¿½o dos casos.
+ CAT - Comunicaï¿½ï¿½o de acidente de trabalho.
+ O campo "CNAE ? Ativ. Econ." considera os cï¿½digos referentes as tabelas CNAE 1.0.
+ Dados a partir 2020 do Espï¿½rito Santo nï¿½o estï¿½o disponï¿½veis neste sistema, pois sï¿½o oriundos do Sistema de Informaï¿½ï¿½o e-SUS VS,
  em uso pelo estado desde janeiro de 2020.
  Dados de 2006 a 2017 revisados e atualizados em 15/08/2022.
  Dados de 2018 revisados e atualizados em 22/08/2022.
  Dados de 2019 atualizados em junho de 2023.
- Dados de 2020 atualizados em junho de 2023, sujeitos à revisão.
- Dados de 2021 revisados e atualizados em agosto de 2023, sujeitos à revisão.
- Dados de 2022 revisados e atualizados em julho de 2023, sujeitos à revisão.
- Dados de 2023 atualizados em janeiro de 2024, sujeitos à revisão.
+ Dados de 2020 atualizados em junho de 2023, sujeitos ï¿½ revisï¿½o.
+ Dados de 2021 revisados e atualizados em agosto de 2023, sujeitos ï¿½ revisï¿½o.
+ Dados de 2022 revisados e atualizados em julho de 2023, sujeitos ï¿½ revisï¿½o.
+ Dados de 2023 atualizados em janeiro de 2024, sujeitos ï¿½ revisï¿½o.
   *Dados disponibilizados no TABNET em fevereiro de 2024.
  
