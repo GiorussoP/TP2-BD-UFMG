@@ -1,13 +1,12 @@
 # TP2-IBD-UFMG
-Repositório para a realização do trabalho prático 2 de Banco de Dados.
+🇧🇷 Este repositório contém conjuntos de dados públicos do Governo Federal do Brasil que exploram a relação entre a qualidade do ar e a incidência de doenças respiratórias no país. O projeto foi criado como parte da disciplina "Introdução a Banco de Dados (IBD)" por alunos da graduação em Ciência da Computação, da Universidade Federal de Minas Gerais. Os conjuntos de dados abaixo foram melhorados para posterior análise exploratória de dados em um modelo relacional.
 
-[Gogle docs do trabalho](https://docs.google.com/document/d/1fmDFtRIX4SD15YD9zW5VwbN8lnL-M4ZnamWYFPArxoI/edit?usp=sharing)
+🇬🇧 This repository contains public datasets from the Federal Government of Brazil that explore the relation between air quality and the incidence of respiratory illnesses in the country. The project was created as part of the "Introduction to Databases" class by undergraduate students in Computer Science, from the Federal University of Minas Gerais. The datasets below were improved for further exploratory data analysis in a relational model.
 
+### Conjuntos de Dados Originais / Original Datasets:
 
-## Conjuntos de dados utilizados:
+-   Ar Puro - MonitorAr: <<https://dados.gov.br/dados/conjuntos-dados/ar-puro-monitorar>>.
 
-- Ar Puro - MonitorAr, disponível em https://dados.gov.br/dados/conjuntos-dados/ar-puro-monitorar.
+-   Sistema de Informação de Agravos de Notificação de doenças relacionadas ou transmitidas através do ar (DataSUS): <<https://datasus.saude.gov.br/acesso-a-informacao/doencas-e-agravos-de-notificacao-de-2007-em-diante-sinan/>>.
 
-- Sistema de Informação de Agravos de Notificação de doenças relacionadas ou transmitidas através do ar (DataSUS), disponível em https://datasus.saude.gov.br/acesso-a-informacao/doencas-e-agravos-de-notificacao-de-2007-em-diante-sinan/.
-
-- IBGE 2021 - Estimativas da população por município e unidade federativa, disponível em https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?edicao=31451&t=resultados.
+- IBGE 2021 - Estimativas da população por município e unidade federativa: <<https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?edicao=31451&t=resultados>>.
